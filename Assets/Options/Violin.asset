@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42454a04d16b94a49bec8de2b7425588, type: 3}
+  m_Name: Violin
+  m_EditorClassIdentifier: 
+  instrument: 6
+  sound: {fileID: 8300000, guid: 893e6ce34e4ab704ab3de109c7abcd3a, type: 3}
+  instrumentName: Violin
+  image: {fileID: 21300000, guid: 4268547123706da4a8514d7324317ec8, type: 3}

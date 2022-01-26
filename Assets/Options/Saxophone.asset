@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42454a04d16b94a49bec8de2b7425588, type: 3}
+  m_Name: Saxophone
+  m_EditorClassIdentifier: 
+  instrument: 10
+  sound: {fileID: 8300000, guid: 7cb22e583abc1fa449aaf426ef32b42d, type: 3}
+  instrumentName: Saxophone
+  image: {fileID: -8570623565951442215, guid: 7d1adbfaa5a9f1442858d8460036893e, type: 3}

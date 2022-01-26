@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42454a04d16b94a49bec8de2b7425588, type: 3}
+  m_Name: Cello
+  m_EditorClassIdentifier: 
+  instrument: 8
+  sound: {fileID: 8300000, guid: e28778ca25fec9244846064d035680cf, type: 3}
+  instrumentName: Cello
+  image: {fileID: 21300000, guid: ab81426946d7e5f49ba7d11f04b66964, type: 3}

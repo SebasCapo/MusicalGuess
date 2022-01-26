@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42454a04d16b94a49bec8de2b7425588, type: 3}
+  m_Name: Keyboard
+  m_EditorClassIdentifier: 
+  instrument: 2
+  sound: {fileID: 8300000, guid: bff57c65ee23c744cb3a1df03d94845e, type: 3}
+  instrumentName: Keyboard
+  image: {fileID: 21300000, guid: ff5ff0114f87ab34e8c453f16c6ca2fd, type: 3}
